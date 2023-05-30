@@ -1,7 +1,7 @@
 ### Hello ladies and gentlemen
 #### 👋 Hi, I’m Nguyen Trong Nhan
 - 👀 I’m from Da Nang, Viet Nam
-- 💻 I'm a Mobile Developer
+- 💻 I'm a FrontEnd Developer
 - 📸 I'm also a Freelancer Photographer
 - 📫 Connected with me
 
