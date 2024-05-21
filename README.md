@@ -15,7 +15,7 @@ Mail:
 nguyen.nhan211020@gmail.com
 ```
 
-*** I have a staff of engineers with many years of experience, we specialize in consulting solutions and developing professional software ***
+**I have a staff of engineers with many years of experience, we specialize in consulting solutions and developing professional software. We always bring customers the best products at an affordable cost. Contact me for advice**
 
 
 
