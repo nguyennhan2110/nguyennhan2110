@@ -1,9 +1,9 @@
 ### Hello ladies and gentlemen
 #### 👋 Hi, I’m Nguyen Trong Nhan
 - 👀 I’m from Da Nang, Viet Nam
-- 💻 I'm a FrontEnd Developer
-- 📸 I'm also a Freelancer Photographer
-- 📫 Connected with me
+- 💻 I'm a Web Developer. I am passionate about creating interactive user interfaces and delivering optimal user experiences. With a solid foundation in HTML, CSS, JavaScript and problem-solving skills, I can work independently and effectively in team-work
+- I'm interested in UX/UI, AWS, DevOps, IoT...
+- 📫 Connected with me:
 
 Phone:
 ```
@@ -15,7 +15,7 @@ Mail:
 nguyen.nhan211020@gmail.com
 ```
 
-***Looking forward to working in a dynamic and professional environment, where I can develop professional skills, accumulate work experience, and stick with the company for a long time. Aim to be a multilingual, cross-platform programmer.***
+*** I have a staff of engineers with many years of experience, we specialize in consulting solutions and developing professional software ***
 
 
 
